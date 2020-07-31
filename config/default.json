@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://rubdo13:<password>@cluster0.wykag.mongodb.net/<dbname>?retryWrites=true&w=majority"
+}
